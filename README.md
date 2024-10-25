@@ -2,12 +2,8 @@
 Data Scientist with a focus on machine learning and deep learning. Experienced in building and deploying predictive models using Python, TensorFlow, and PyTorch. Strong programming skills in C# and a passion for solving complex data problems.
 
 
-<h1 align="center">Hi 👋, I'm Parsa</h1>
-<h3 align="center">Data Scientist with a focus on machine learning and deep learning. Experienced in building and deploying predictive models using Python, TensorFlow, and PyTorch. Strong programming skills in C# and a passion for solving complex data problems.</h3>
 
-- 🔭 I’m currently working on **brain tumor detect with cnn**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parsa-latifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parsa-latifi" height="30" width="40" /></a>
 <a href="https://kaggle.com/parsalatifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parsalatifi" height="30" width="40" /></a>
